@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 ＃simple_board2
+＃simple_board2
